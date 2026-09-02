@@ -3,6 +3,8 @@
 // Programming Assignment #2
 // I declare that I am the author of this work, take full responsibility for it, and have disclosed any material external assistance.
 
+//I asked my professor and James for help on challange 2 and got the answer with their help.
+
 //char * AUTHOR_NAME = (char *) "Jakub Pach";
 //char * AUTHOR_AUTHORSHIP = (char *) "I acknowledge that I have worked on this assignment independently, except where explicitly noted and referenced. Any collaboration or use of external resources has been properly cited. I am fully aware of the consequences of academic dishonesty and agree to abide by the university's academic integrity policy. I understand the seriousness and implications of plagiarism.";
 
@@ -100,7 +102,7 @@ int challenge02()
     x -= 5;
     x *= 2;
 
-    return ;
+    return 14;
 }
 
 
