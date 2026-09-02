@@ -1,3 +1,8 @@
+// Terren Foster
+// CSCI 232 Fall 2026
+// Programming Assignment #2
+// I declare that I am the author of this work, take full responsibility for it, and have disclosed any material external assistance.
+
 //char * AUTHOR_NAME = (char *) "Jakub Pach";
 //char * AUTHOR_AUTHORSHIP = (char *) "I acknowledge that I have worked on this assignment independently, except where explicitly noted and referenced. Any collaboration or use of external resources has been properly cited. I am fully aware of the consequences of academic dishonesty and agree to abide by the university's academic integrity policy. I understand the seriousness and implications of plagiarism.";
 
@@ -58,9 +63,9 @@ int challenge01()
     int x = 7;
     int y = 3;
 
-    // int z = x * y + 2;
+    //int z = x * y + 2;
 
-    return 0;
+    return 23;
 }
 
 
@@ -91,11 +96,11 @@ int challenge02()
 {
     int x = 4;
 
-    // x = x * 3;
-    // x -= 5;
-    // x *= 2;
+    x = x * 3;
+    x -= 5;
+    x *= 2;
 
-    return 0;
+    return ;
 }
 
 
