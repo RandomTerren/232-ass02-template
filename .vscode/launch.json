@@ -2,6 +2,7 @@
     "version": "2.0.0",
     "configurations": 
     [
+        
         {
             "name": "C: gcc.exe build and debug (external Console)",
             "type": "cppdbg",
