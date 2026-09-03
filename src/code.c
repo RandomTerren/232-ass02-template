@@ -173,7 +173,7 @@ int challenge04()
 
     value += 5;
 
-    return 30;
+    return 40;
 }
 
 
