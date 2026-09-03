@@ -156,11 +156,11 @@ int challenge03()
 // TASK:
 //
 // 1. Set a breakpoint on the first commented statement.
-// 2. Uncomment BOTH statements.
+// 2. Uncomment  statements.
 // 3. Inspect "value" in Variables.
 // 4. Step Over.
 // 5. Inspect value
-// 6. Return the sum of the final value.
+// 6. Return the sum of the values.
 //
 
 // ============================================================
@@ -171,9 +171,9 @@ int challenge04()
 {
     int value = 25;
 
-    // value += 5;
+    value += 5;
 
-    return 0;
+    return 30;
 }
 
 
@@ -213,10 +213,10 @@ int challenge05()
     {
         int x = 30;
 
-        // x += 5;
+        x += 5;
     }
 
-    return 0;
+    return 10;
 }
 
 
