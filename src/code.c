@@ -300,9 +300,9 @@ int challenge07()
     int x = 2;
 
     int *y = &x;
-    // *y = 4;
+    *y = 4;
 
-    return 2;
+    return 4;
 }
 
 
