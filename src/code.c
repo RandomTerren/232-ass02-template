@@ -397,7 +397,7 @@ int challenge09()
     int *p = values;
     int *q = p + 2;
 
-    return 0x61ff08;
+    return 4;
 }
 
 
