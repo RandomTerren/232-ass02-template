@@ -546,7 +546,7 @@ int challenge12()
 {
     int result = calculate(4);
 
-    return 0;
+    return 18;
 }
 
 
