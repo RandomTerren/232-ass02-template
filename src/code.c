@@ -544,7 +544,7 @@ int calculate(int x)
 
 int challenge12()
 {
-    // int result = calculate(4);
+    int result = calculate(4);
 
     return 0;
 }
